@@ -1,0 +1,11 @@
+node_modules
+.pnpm-store
+.package-cache
+.next
+out
+.vercel
+.DS_Store
+*.log
+.env*
+!.env.example
+tsconfig.tsbuildinfo
